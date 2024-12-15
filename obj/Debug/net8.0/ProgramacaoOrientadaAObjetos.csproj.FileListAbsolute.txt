@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\Metodos\obj\Debug\net8.0\ProgramacaoOrientadaAObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Metodos\obj\Debug\net8.0\ProgramacaoOrientadaAObjetos.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Metodos\obj\Debug\net8.0\ProgramacaoOrientadaAObjetos.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Metodos\obj\Debug\net8.0\ProgramacaoOrientadaAObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Metodos\bin\Debug\net8.0\ProgramacaoOrientadaAObjetos.exe
+C:\Users\Aluno\source\repos\Metodos\bin\Debug\net8.0\ProgramacaoOrientadaAObjetos.deps.json
+C:\Users\Aluno\source\repos\Metodos\bin\Debug\net8.0\ProgramacaoOrientadaAObjetos.runtimeconfig.json
+C:\Users\Aluno\source\repos\Metodos\bin\Debug\net8.0\ProgramacaoOrientadaAObjetos.dll
+C:\Users\Aluno\source\repos\Metodos\bin\Debug\net8.0\ProgramacaoOrientadaAObjetos.pdb
+C:\Users\Aluno\source\repos\Metodos\obj\Debug\net8.0\ProgramacaoOrientadaAObjetos.dll
+C:\Users\Aluno\source\repos\Metodos\obj\Debug\net8.0\refint\ProgramacaoOrientadaAObjetos.dll
+C:\Users\Aluno\source\repos\Metodos\obj\Debug\net8.0\ProgramacaoOrientadaAObjetos.pdb
+C:\Users\Aluno\source\repos\Metodos\obj\Debug\net8.0\ProgramacaoOrientadaAObjetos.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Metodos\obj\Debug\net8.0\ref\ProgramacaoOrientadaAObjetos.dll
